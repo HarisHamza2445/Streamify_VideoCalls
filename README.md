@@ -1,4 +1,4 @@
-<h1 align="center">✨ Fullstack Chat & Video Calling App ✨</h1>
+<h1 align="center">✨ MERN Stack : Video Calling Realtime Chat App & Social App ✨</h1>
 
 
 
